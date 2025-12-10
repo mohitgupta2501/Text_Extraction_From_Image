@@ -94,6 +94,3 @@ Sample images for testing the OCR model are available in the `sample_data/` fold
 
 ---
 
-
-
-Just tell me!
